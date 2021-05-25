@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on RedDB Project at DIFFER
+- 🔭 I’m currently working on RedDB Project at DIFFER. I take part in the Pre-Processing, EDA and Modeling parts of the RedDB project. This project aims to discover and development of key material components for the advancement of redox flow batteries (RBF) technologies.
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cihanyatbaz&layout=compact" alt="cihanyatbaz" /></p>
