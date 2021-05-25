@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on RedDB Project at DIFFER. 
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cihanyatbaz&layout=compact" alt="cihanyatbaz" /></p>
