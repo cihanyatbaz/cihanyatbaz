@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on RedDB Project at DIFFER
+- 🔭 I’m currently working on RedDB Project at DIFFER. I take part in the Pre-Processing, EDA and Modeling parts of the RedDB project. 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on RedDB Project at DIFFER. I take part in the Pre-Processing, EDA and Modeling parts of the RedDB project. 
+- 🔭 I’m currently working on RedDB Project at DIFFER. 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cihanyatbaz&layout=compact" alt="cihanyatbaz" /></p>
