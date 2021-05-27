@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   
 [![](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cihanyatbaz/)
 [![](https://img.shields.io/badge/Kaggle-%2312100E.svg?&style=flat?labelColor=blue?color=blue&logo=kaggle&logoColor=blue)](https://www.kaggle.com/cihanyatbaz)
-[![](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/cihanyatbaz)
+[![](https://img.shields.io/badge/HackerRank-2EC866?style=flat?color=black&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/cihanyatbaz)
 [![](https://img.shields.io/badge/Email-cihanyatbaz%40gmail.com-red)](mailto:cihanyatbaz@gmail.com) 
 ![](https://komarev.com/ghpvc/?username=cihanyatbaz&color=blue)
 
