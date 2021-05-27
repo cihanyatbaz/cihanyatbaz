@@ -24,16 +24,12 @@ Here are some ideas to get you started:
 
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cihanyatbaz&theme=dark&hide=c,makefile" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cihanyatbaz&layout=compact&theme=dark&hide=c,makefile" />
   <img src="https://github-readme-stats.vercel.app/api?username=cihanyatbaz&show_icons=true&theme=dark&line_height=27" />
 </p>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=cihanyatbaz&theme=onedark&hide=c,makefile" />****
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=cihanyatbaz&theme=cobalt&hide=c,makefile" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=cihanyatbaz&theme=synthwave&hide=c,makefile" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=cihanyatbaz&theme=highcontrast&hide=c,makefile" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=cihanyatbaz&theme=dracula&hide=c,makefile" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=cihanyatbaz&theme=dark&hide=c,makefile" />
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cihanyatbaz&layout=compact" alt="cihanyatbaz" /></p>
 
