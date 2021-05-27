@@ -29,6 +29,12 @@ Here are some ideas to get you started:
 </p>
 
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=cihanyatbaz&theme=tokyonight&hide=c,makefile" />****
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=cihanyatbaz&theme=dark&hide=c,makefile" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=cihanyatbaz&theme=radical&hide=c,makefile" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=cihanyatbaz&theme=merko&hide=c,makefile" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=cihanyatbaz&theme=gruvbox&hide=c,makefile" />
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cihanyatbaz&layout=compact" alt="cihanyatbaz" /></p>
 
 
