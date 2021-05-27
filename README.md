@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 
 ?color=black
 
+Update README.md
+
 
 - --- USE: https://github.com/thealibrs
 -->
@@ -36,6 +38,8 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Kaggle-%2312100E.svg?&style=flat?labelColor=blue?color=blue&logo=kaggle&logoColor=blue)](https://www.kaggle.com/cihanyatbaz)
 [![](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=HackerRank&black=black)](https://www.hackerrank.com/cihanyatbaz)
 [![](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/cihanyatbaz)
+
+[![](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/cihanyatbaz)
 [![](https://img.shields.io/badge/Email-cihanyatbaz%40gmail.com-red)](mailto:cihanyatbaz@gmail.com) 
 ![](https://komarev.com/ghpvc/?username=cihanyatbaz&color=blue)
 
