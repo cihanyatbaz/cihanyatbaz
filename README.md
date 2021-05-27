@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - --- USE: https://github.com/thealibrs
 -->
 
-- 🔭 </a>I’m currently working as a Data Science Researcher Intern at the <a href ="https://www.amdlab.nl/people/cyatbaz/">Autonomous Energy Materials Discovery (AMD) Research Group</a> at DIFFER and CCER (Center for Computational Energy Research)</a>🐱‍🏍
+- 🔭 </a>I’m currently working as a Data Science Researcher Intern at the <a href ="https://www.amdlab.nl/people/cyatbaz/">Autonomous Energy Materials Discovery (AMD) </a> Research Group at DIFFER and CCER (Center for Computational Energy Research)</a>🐱‍🏍
 
 
 
