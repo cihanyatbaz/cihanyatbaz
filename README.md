@@ -25,6 +25,8 @@ Update README.md
 - 🔭 </a> I’m currently working as a Data Science Researcher Intern at the <a href ="https://www.amdlab.nl/people/cyatbaz/">Autonomous Energy Materials Discovery (AMD) </a> Research Group at DIFFER (Dutch Institute for Fundamental Energy Research) and CCER (Center for Computational Energy Research) </a>
 
 
+-----------------------------------------------------------------------------------------------------------------------------------
+
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cihanyatbaz&layout=compact&theme=dark&hide=c,makefile" />
@@ -32,7 +34,7 @@ Update README.md
 </p>
 
 
-
+-----------------------------------------------------------------------------------------------------------------------------------
   
 [![](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cihanyatbaz/)
 [![](https://img.shields.io/badge/Kaggle-%2312100E.svg?&style=flat?labelColor=blue?color=blue&logo=kaggle&logoColor=blue)](https://www.kaggle.com/cihanyatbaz)
